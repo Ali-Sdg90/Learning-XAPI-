@@ -1,0 +1,16 @@
+{
+    "actor": {
+      "name": "Devlin",
+      "mbox": "mailto:devlinpeck@gmail.com"
+    },
+    "verb": {
+      "id":"http://adlnet.gov/expapi/verbs/completed",
+      "display": {"en-US": "completed" }
+    },
+    "object": {
+      "id": "https://www.devlinpeck.com/tutorials/write-xapi-statement",
+      "definition": {
+        "name": { "en-US": "Write XAPI Statement Tutorial" }
+      }
+    }
+  }
