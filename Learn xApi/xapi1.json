@@ -1,0 +1,11 @@
+{
+    "name": "ali",
+    "age": 22,
+    "fav_color": "blue",
+    "isXAPICool": false,
+    "randomObj": {
+        "randomData1": "hi",
+        "randomData2": "Aloha",
+        "randomData3": "Hello"
+    }
+}
