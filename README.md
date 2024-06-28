@@ -4,7 +4,7 @@ This repository contains my research and work on learning Storyline 360, SCORM, 
 
 ## Repository Structure
 
-### Connect with xAPI & LRS
+### Connect Storyline to LRS with xAPI
 This folder includes files for connecting Storyline 360 to LRS via xAPI. The designed courses can send data to a middleware (LRS) and store extensive custom data.
 
 - **Storyline-files**: Contains Storyline 360 files for two courses. One course sends data to the LRS, and the other retrieves data from the LRS to create custom learning paths.
@@ -16,7 +16,7 @@ This folder documents my learning path for Storyline 360, showcasing its capabil
 - **Storyline-files**: Contains Storyline 360 files.
 - **Web-files**: Contains web output files, viewable in a web browser.
 
-### Learn Storyline Variables
+### Learning Storyline Variables
 This folder contains my exploration of Storyline 360 variables, including advanced concepts such as creating and validating questions and determining learner paths.
 
 ### Learning xAPI
